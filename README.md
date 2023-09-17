@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiganeshsadanala&label=Profile%20views&color=0e75b6&style=flat" alt="saiganeshsadanala" /> </p>
 
+- 🌱 I’m currently learning **Scikit-Learn,PowerBI**
+
+- 💬 Ask me about **Python, Pandas, Numpy**
+
 - 📫 How to reach me **sadanalasaiganesh54@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
