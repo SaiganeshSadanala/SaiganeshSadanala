@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Python, Pandas, Numpy, Data analysis, PowerBI**
+- 💬 Ask me about **Python, Pandas, Numpy, Data analysis, PowerBI, DAX**
 
 - 📫 How to reach me **sadanalasaiganesh54@gmail.com**
 
